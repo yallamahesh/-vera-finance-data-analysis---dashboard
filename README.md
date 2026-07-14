@@ -3,11 +3,18 @@
 Project Title: Vera Finance Sales Analysis Dashboard
 
 📊 Which branch generates the most profit?
+
 🏍️ Which bike model is most financed?
+
 ⚠️ What is the overdue rate across regions?
+
 💰 What is the average loan amount and EMI?
+
 📅 Which month has the highest collections?
+
 📈 What is the relationship between interest rate and EMI status?
+
+
 Key Responsibilities:
 
 Cleaned and validated sales and customer data using Excel functions.
@@ -24,6 +31,7 @@ Improved reporting accuracy and reduced manual reporting effort through dashboar
 Dashboard KPIs:
 
 Total Loan Amount Disbursed
+
 Total Customers
 Total Sales
 Collection Amount
