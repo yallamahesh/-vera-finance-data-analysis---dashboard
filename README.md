@@ -2,6 +2,8 @@
 
 Project Title: Vera Finance Sales Analysis Dashboard
 
+# business quetions
+
 📊 Which branch generates the most profit?
 
 🏍️ Which bike model is most financed?
@@ -53,7 +55,7 @@ Sales Executive Performance
 # dashboard
 <img width="1236" height="678" alt="Screenshot 2026-07-14 211709" src="https://github.com/user-attachments/assets/463b4fe8-4412-4516-a88a-d95e769b7336" />
 
-#Dashboard Overview
+# Dashboard Overview
 
 KPI Cards (Top Section)
 
@@ -65,13 +67,19 @@ Total Purchase Price: 33M
 
 Total Sold Price: 39M
 
-#Business Insight:
+# Business Insight:
 
 Revenue generated = 39M 
 
 Cost incurred = 33M 
 
-Profit = 6M 
+Profit = 6M
+
+# conclusion
+
+this Bike Finance Data Analysis project demonstrates how data can be used to evaluate loan performance, branch profitability, and EMI collections. By researching customer, loan, branch, and bike sales data using SQL, Python (Pandas), and Power BI, meaningful business insights were generated to support data-driven decision-making.The analysis identified top-performing branches and bike models, highlighted overdue EMI trends, measured collection performance across different periods, and evaluated the relationship between interest rates, loan amounts, and EMI status. Interactive dashboards and KPI reports enabled stakeholders to monitor financial performance efficiently and identify areas requiring attention.Overall, this project showcases practical data analytics skills in data cleaning, SQL querying, data visualization, and business intelligence, making it a strong end-to-end portfolio project for a Data Analyst role.<img width="6686" height="332" alt="image" src="https://github.com/user-attachments/assets/ce9d62ff-ecd5-463b-ad96-1f598efea76c" />
+
+
 
 Profit Margin ≈ 15.38%
 
