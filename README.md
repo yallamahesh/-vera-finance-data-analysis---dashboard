@@ -53,5 +53,28 @@ Sales Executive Performance
 # dashboard
 <img width="1236" height="678" alt="Screenshot 2026-07-14 211709" src="https://github.com/user-attachments/assets/463b4fe8-4412-4516-a88a-d95e769b7336" />
 
+#Dashboard Overview
+
+KPI Cards (Top Section)
+
+Target : Achievement is below target by approximately 33.21%.
+
+Total Profit: 6M 
+
+Total Purchase Price: 33M
+
+Total Sold Price: 39M
+
+#Business Insight:
+
+Revenue generated = 39M 
+
+Cost incurred = 33M 
+
+Profit = 6M 
+
+Profit Margin ≈ 15.38%
+
+
 
 
