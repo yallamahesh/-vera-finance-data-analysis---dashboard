@@ -15,7 +15,7 @@ Project Title: Vera Finance Sales Analysis Dashboard
 📈 What is the relationship between interest rate and EMI status?
 
 
-Key Responsibilities:
+# Key Responsibilities:
 
 Cleaned and validated sales and customer data using Excel functions.
 Built Pivot Tables and Pivot Charts to summarize sales performance.
@@ -28,7 +28,7 @@ Applied conditional formatting to highlight overdue accounts and key KPIs.
 Identified top-performing branches and sales executives based on business metrics.
 Improved reporting accuracy and reduced manual reporting effort through dashboard automation.
 
-Dashboard KPIs:
+# Dashboard KPIs:
 
 Total Loan Amount Disbursed
 
@@ -48,6 +48,10 @@ Monthly Sales Trend
 
 Loan Type Distribution
 
-Sales Executive Performanc
+Sales Executive Performance
+
+# dashboard
+<img width="1236" height="678" alt="Screenshot 2026-07-14 211709" src="https://github.com/user-attachments/assets/463b4fe8-4412-4516-a88a-d95e769b7336" />
+
 
 
