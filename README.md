@@ -33,13 +33,21 @@ Dashboard KPIs:
 Total Loan Amount Disbursed
 
 Total Customers
+
 Total Sales
+
 Collection Amount
+
 Pending EMI Amount
+
 Overdue Accounts
+
 Branch-wise Performance
+
 Monthly Sales Trend
+
 Loan Type Distribution
+
 Sales Executive Performanc
 
 
