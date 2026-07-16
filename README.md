@@ -52,6 +52,10 @@ Loan Type Distribution
 
 Sales Executive Performance
 
+# sql queries
+
+https://1drv.ms/f/c/d50b9b454e95998d/IgCNmZVORZsLIIDVdAAAAAAAAbjCczgU6dXnyqsaJYUTgL0?e=Yt2o7b
+
 # dashboard
 <img width="1236" height="678" alt="Screenshot 2026-07-14 211709" src="https://github.com/user-attachments/assets/463b4fe8-4412-4516-a88a-d95e769b7336" />
 
