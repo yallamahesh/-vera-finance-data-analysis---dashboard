@@ -52,9 +52,19 @@ Loan Type Distribution
 
 Sales Executive Performance
 
-# sql queries
+# Data cleaning and data exteaction 
 
-https://1drv.ms/f/c/d50b9b454e95998d/IgCNmZVORZsLIIDVdAAAAAAAAbjCczgU6dXnyqsaJYUTgL0?e=Yt2o7b
+
+<img width="1221" height="570" alt="Screenshot 2026-07-16 121137" src="https://github.com/user-attachments/assets/9a3d182b-6b50-4fd4-a13e-8211eaf40aa4" />
+<img width="1167" height="628" alt="Screenshot 2026-07-16 121154" src="https://github.com/user-attachments/assets/d881b560-f8f1-4937-a667-831635b65aaa" />
+<img width="1228" height="622" alt="Screenshot 2026-07-16 121220" src="https://github.com/user-attachments/assets/ac6ebe76-8698-499c-bb4e-76a8d9ee5dff" />
+<img width="1122" height="521" alt="Screenshot 2026-07-16 121236" src="https://github.com/user-attachments/assets/4730a4ab-4565-4d41-a0f0-6f0c4ad0e0ee" />
+<img width="1007" height="606" alt="Screenshot 2026-07-16 121331" src="https://github.com/user-attachments/assets/e4dd3d78-a766-434e-acd2-5b0afd7206d5" />
+<img width="935" height="581" alt="Screenshot 2026-07-16 121348" src="https://github.com/user-attachments/assets/bbbbe580-b99e-41e1-8626-da7c42c65293" />
+<img width="920" height="510" alt="Screenshot 2026-07-16 121401" src="https://github.com/user-attachments/assets/b3704c88-63e6-4a76-a46b-aaef5a9de824" />
+<img width="1102" height="563" alt="Screenshot 2026-07-16 121419" src="https://github.com/user-attachments/assets/40de5711-e3c3-4967-881e-2c5e231dd6dd" />
+<img width="1162" height="603" alt="Screenshot 2026-07-16 121433" src="https://github.com/user-attachments/assets/6e759e13-195b-4945-ab79-7f52af784c04" />
+
 
 # dashboard
 <img width="1236" height="678" alt="Screenshot 2026-07-14 211709" src="https://github.com/user-attachments/assets/463b4fe8-4412-4516-a88a-d95e769b7336" />
